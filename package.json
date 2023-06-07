@@ -1,0 +1,27 @@
+{
+  "name": "vuepress-lordyao",
+  "version": "1.0.0",
+  "description": "blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaoqs/VuePress-lordyao.git"
+  },
+  "keywords": [
+    "vuepress"
+  ],
+  "author": "lordyao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaoqs/VuePress-lordyao/issues"
+  },
+  "homepage": "https://github.com/yaoqs/VuePress-lordyao#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.8"
+  }
+}

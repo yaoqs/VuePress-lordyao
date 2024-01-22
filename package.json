@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/yaoqs/VuePress-lordyao#readme",
   "devDependencies": {
-    "vuepress": "^1.9.8"
+    "vuepress": "^1.9.10"
   }
 }
